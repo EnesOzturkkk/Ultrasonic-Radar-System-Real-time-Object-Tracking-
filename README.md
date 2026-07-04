@@ -25,10 +25,11 @@ Active Buzzer           Pin 7
 💻 Software
 The project uses the standard Servo.h library. The logic is based on a non-blocking sweep algorithm that calculates distance while the servo is in motion.
 
-Installation
+🦾 Installation
 1-Clone this repository.
-2-Open SonarSystem.ino in the Arduino IDE.
+2-Open UltrasonicRadarSystem.ino in the Arduino IDE.
 3-Connect your Arduino Uno.
 4-Upload the code and open the Serial Monitor (Baud rate: 9600).
 
-🎥 DemonstrationWatch the full project build and demo on my YouTube channel:[https://www.youtube.com/watch?v=Bq7ytcVUfIo&t=4s]
+🎥 Demonstration
+Watch the full project build and demo on my YouTube channel:[https://www.youtube.com/watch?v=Bq7ytcVUfIo&t=4s]
